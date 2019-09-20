@@ -8,3 +8,4 @@ i = spinp.__len__() - 1
 while i >= 0:
     print(spinp[i],end=" ")
     i=i-1
+print()
